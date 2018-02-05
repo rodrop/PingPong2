@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PingPong</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="team_b_add_point">+ Point</string>
+    <string name="reset_points">reset points</string>
+    <string name="team_b_subtract_point">- Point</string>
+    <string name="team_b_score">0</string>
+    <string name="team_a_subtact_point">- Point</string>
+    <string name="team_a_add_point">+ Point</string>
+    <string name="team_a_score">0</string>
+</resources>
